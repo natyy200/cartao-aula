@@ -1,3 +1,15 @@
+//variaveis
+
+//funções
+
+//chamada
+
+criaCartao(
+'Programação',
+'O que é JavaScript?',
+'O JavaScript é uma linguagem de programação'
+)
+
 criaCartao(
     'Programação',
     'O que é Python?',
@@ -14,4 +26,10 @@ criaCartao(
     'Programação',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Culinaria',
+    'Como faz bolo de cenoura?',
+    'Com cenoura:)'
 )
